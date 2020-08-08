@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<workspaceFilter version="1.0">
+    <filter root="/conf/vhi-aem-pi" mode="merge"/>
+    <filter root="/content/vhi-aem-pi" mode="merge"/>
+    <filter root="/content/dam/vhi-aem-pi" mode="merge"/>
+    <filter root="/content/experience-fragments/vhi-aem-pi" mode="merge"/>
+</workspaceFilter>
